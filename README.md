@@ -15,3 +15,4 @@ https://tutorials.pytorch.kr/beginner/data_loading_tutorial.html
 2. __getitem__(self, index)
 3. __len__(self)
 
+modifying..
