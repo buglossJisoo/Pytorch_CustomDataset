@@ -25,4 +25,4 @@ modifying..
 
 # Resize Image
 
-<img src = "https://user-images.githubusercontent.com/70942492/104125407-d4c95c80-5399-11eb-8119-3866aa35606d.jpg" width="30%", height="30%">
+<img src = "https://user-images.githubusercontent.com/70942492/104125407-d4c95c80-5399-11eb-8119-3866aa35606d.jpg" width="30%" height="30%">
