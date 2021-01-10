@@ -21,4 +21,4 @@ modifying..
 
 # Upload Image
 
-<img src = "https://user-images.githubusercontent.com/70942492/104125407-d4c95c80-5399-11eb-8119-3866aa35606d.jpg)">
+<img src = "https://user-images.githubusercontent.com/70942492/104125407-d4c95c80-5399-11eb-8119-3866aa35606d.jpg">
